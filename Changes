@@ -1,0 +1,10 @@
+Revision history for WWW-Bugzilla-BugTree
+
+0.03      2013-10-10 10:49:40 -0400
+  - use proxy if http_proxy is set
+
+0.02      2013-08-07 06:42:05 America/New_York
+  - added BUG_TREE_USER environment variable for bug_tree script
+
+0.01      2013-08-07 06:31:21 America/New_York
+  - initial version
